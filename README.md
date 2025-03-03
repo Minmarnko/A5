@@ -67,8 +67,8 @@ This enables seamless inference and future fine-tuning.
 
 #### Screenshots:
 - **Result**  
-  ![Home](2.png)
-  ![Home](3.png)
+  !(2.png)
+  !(3.png)
 
 
 
