@@ -3,7 +3,7 @@
 ## Assignment Details
 
 - **Name:** Min Marn Ko  
-- **ID:** st124959  
+- **ID:** st125437  
 
 This project implements **Direct Preference Optimization (DPO)** to enhance a pre-trained language model’s responses based on human preferences. Using **Hugging Face’s TRL library**, the process is divided into four key tasks:
 
