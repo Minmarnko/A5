@@ -66,10 +66,14 @@ This enables seamless inference and future fine-tuning.
 ## Task 4: Web Application for Inference
 
 #### Screenshots:
-- **Result**  
-  (2p.png)
-  
-  (3p.png)
+
+
+### First Result
+![2p](2p.png)
+
+### Second Result
+![3p](3p.png)
+
 
 
 
